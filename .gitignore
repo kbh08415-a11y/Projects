@@ -10,3 +10,20 @@ MemoryCaptures/
 *.sln
 .vs/
 .idea/
+# Visual Studio / Rider
+.vs/
+.idea/
+*.sln
+*.csproj
+*.user
+*.suo
+*.vsidx
+.vscode/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+Logs/
+UserSettings/
+MemoryCaptures/
