@@ -1,0 +1,13 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+Logs/
+MemoryCaptures/
+.DS_Store
+.vs/
+.idea/
+*.csproj
+*.sln
