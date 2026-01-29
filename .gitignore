@@ -6,8 +6,7 @@
 UserSettings/
 Logs/
 MemoryCaptures/
-.DS_Store
-.vs/
-.idea/
 *.csproj
 *.sln
+.vs/
+.idea/
